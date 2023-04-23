@@ -1,0 +1,15 @@
+https://github.com/acheong08/ChatGPT
+https://github.com/gannonh/gpt3.5-turbo-pgvector
+https://github.com/Grt1228/chatgpt-java
+https://github.com/Synaptrix/ChatGPT-Desktop
+https://github.com/LlmKira/Openaibot
+https://github.com/zilliztech/GPTCache
+https://github.com/madawei2699/myGPTReader
+https://github.com/ddiu8081/chatgpt-demo
+https://github.com/RealityAnchor/ries-gpt-ui
+https://github.com/MLeidel/GptGUI
+https://github.com/gusi22/ChatGPT-Desktop-Version
+https://github.com/xtekky/chatgpt-clone
+
+//collection
+https://github.com/topics/gpt-35-turbo

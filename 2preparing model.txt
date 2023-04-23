@@ -1,0 +1,18 @@
+If you only have access to the GPT-4 API key, you can still use the API to implement legal document analysis and summarization tasks without fine-tuning the model. Although fine-tuning the model on domain-specific data often yields better results, GPT-4's pre-trained knowledge is already extensive, and you can still achieve good performance by crafting effective API prompts.
+
+Here's an updated development process using GPT-4 API:
+
+Prompt design: Design effective prompts for the tasks you want to accomplish, such as feature extraction and summarization. Be specific in your prompts and provide examples, if necessary, to guide the model towards the desired output.
+https://github.com/openai/openai-cookbook
+
+API setup: Set up the GPT-4 API with your API key and configure the API call parameters, such as temperature, max tokens, and top-p. These parameters control various aspects of the model's output, such as the level of creativity and the length of the generated text.
+
+Test and iterate: Test your prompts and API setup with a variety of legal documents to evaluate the model's performance in extracting essential features and summarizing the content. Analyze the results and iterate on your prompts and API parameters to improve the model's performance.
+
+User interface development: Design and develop a user-friendly interface that allows legal professionals to upload their documents, view the extracted information and summaries, and edit or annotate the results as needed.
+
+Integration: Integrate the GPT-4 API with the user interface to create a seamless experience for users. Ensure that the API can handle various file formats, such as PDF, DOC, or TXT, and is scalable to accommodate a large number of users and documents.
+
+Testing and validation: Test your AI analysis tool with a group of legal professionals to gather feedback and validate its usability, accuracy, and usefulness. Use this feedback to refine the tool and address any issues or concerns raised by the users.
+
+While using the GPT-4 API without fine-tuning may not yield the same level of performance as a fine-tuned model, it can still provide valuable insights and functionality for legal professionals. Iterating on your prompts and API parameters can help you improve the model's performance and tailor it to your specific use case.
